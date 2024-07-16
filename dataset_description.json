@@ -1,11 +1,16 @@
 {
-  "ReferencesAndLinks": ["https://github.com/gaffreylab"],
-  "Authors": [
-    "Armen Bagdasarov",
-    "Michael S. Gaffrey"
-  ],
-  "Name": "Gaffrey Lab Infant Microstates and Attention",
-  "License": "CC0",
-  "BIDSVersion": "1.8.0",
-  "HEDVersion": "8.1.0"
+    "ReferencesAndLinks": [
+        "https://github.com/gaffreylab"
+    ],
+    "Authors": [
+        "Armen Bagdasarov",
+        "Michael S. Gaffrey"
+    ],
+    "Name": "Gaffrey Lab Infant Microstates and Attention",
+    "License": "CC0",
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "Funding": [
+        "Charles Lafitte Foundation"
+    ]
 }
